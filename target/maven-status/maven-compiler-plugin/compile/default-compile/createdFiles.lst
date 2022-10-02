@@ -1,0 +1,7 @@
+com/example/fetchrewards/model/AddTxnRequest.class
+com/example/fetchrewards/service/FetchRewardsService.class
+com/example/fetchrewards/model/BalanceResponse.class
+com/example/fetchrewards/model/BalanceResponse$BalanceResponseBuilder.class
+com/example/fetchrewards/model/SpendPointsResponse$SpendPointsResponseBuilder.class
+com/example/fetchrewards/model/SpendPointsResponse.class
+com/example/fetchrewards/model/SpendPointsRequest.class
