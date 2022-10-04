@@ -1,6 +1,7 @@
 # FetchRewards
 
-## Steps to setup and run this service from terminal: ##
+## Steps to setup and run this service: ##
+From terminal:
 1. Install Java (OpenJDK 19 was used for development)
 2. Install Maven (Apache Maven 3.8.6 was used for development)
 3. Run ‘mvn clean’
