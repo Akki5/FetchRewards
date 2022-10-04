@@ -1,4 +1,4 @@
-# FetchRewards
+# Fetch Rewards Coding Exercise
 
 ## Steps to setup and run this service ##
 From terminal:
