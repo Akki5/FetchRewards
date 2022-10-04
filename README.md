@@ -6,7 +6,7 @@ From terminal:
 2. Install Maven (Apache Maven 3.8.6 was used for development)
 3. Run ‘mvn clean’
 4. Run ‘mvn install’
-5. Run ‘./mvnw spring-boot:run’
+5. Run ‘./mvnw spring-boot:run’<br>
 (If run into any maven folder (.mvn) related issue, Run ‘mvn -N io.takari:maven:wrapper’)
 
 This will start the service. In a new terminal window, run the API curls.
