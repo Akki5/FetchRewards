@@ -1,4 +1,4 @@
-# FetchRewards
+# Fetch Rewards Coding Exercise
 
 ## Steps to setup and run this service ##
 From terminal:
@@ -29,4 +29,5 @@ API curls can also be run using an API platform such as Postman. Postman collect
 1. Response body can be improved.
 2. Appropriate response codes can be added.
 3. Separate archive list for inactive transactions can be maintained and removed from the list of active transactions. Right now all transactions stay in the main list in cache like a ledger.
-4. Swagger Tools can be integrated for API documentation. Right now, comments in source code provide this documentation.
+4. JUnit testing can be added for all apis.
+5. Swagger Tools can be integrated for API documentation. Right now, comments in source code provide this documentation.
