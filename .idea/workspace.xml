@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e077a2-c840-48fb-a35f-0779486acbac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fetchrewards/model/AddTxnRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fetchrewards/model/AddTxnRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fetchrewards/model/SpendPointsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fetchrewards/model/SpendPointsRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/FetchRewards-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/FetchRewards-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/FetchRewards-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/FetchRewards-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/controller/FetchRewardsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/controller/FetchRewardsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/model/AddTxnRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/model/AddTxnRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/model/SpendPointsRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/fetchrewards/model/SpendPointsRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="d4e077a2-c840-48fb-a35f-0779486acbac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +113,7 @@
       <workItem from="1664657622097" duration="8911000" />
       <workItem from="1664733295164" duration="2548000" />
       <workItem from="1664738781072" duration="2306000" />
-      <workItem from="1664854665387" duration="3904000" />
+      <workItem from="1664854665387" duration="4023000" />
     </task>
     <servers />
   </component>
